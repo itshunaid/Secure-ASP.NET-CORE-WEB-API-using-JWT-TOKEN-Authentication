@@ -1,0 +1,11 @@
+E:\JWT_TOKEN\JWT_TOKEN\bin\Debug\netcoreapp2.0\JWT_TOKEN.deps.json
+E:\JWT_TOKEN\JWT_TOKEN\bin\Debug\netcoreapp2.0\JWT_TOKEN.runtimeconfig.json
+E:\JWT_TOKEN\JWT_TOKEN\bin\Debug\netcoreapp2.0\JWT_TOKEN.runtimeconfig.dev.json
+E:\JWT_TOKEN\JWT_TOKEN\bin\Debug\netcoreapp2.0\JWT_TOKEN.dll
+E:\JWT_TOKEN\JWT_TOKEN\obj\Debug\netcoreapp2.0\JWT_TOKEN.csprojResolveAssemblyReference.cache
+E:\JWT_TOKEN\JWT_TOKEN\obj\Debug\netcoreapp2.0\JWT_TOKEN.csproj.CoreCompileInputs.cache
+E:\JWT_TOKEN\JWT_TOKEN\obj\Debug\netcoreapp2.0\JWT_TOKEN.AssemblyInfoInputs.cache
+E:\JWT_TOKEN\JWT_TOKEN\obj\Debug\netcoreapp2.0\JWT_TOKEN.AssemblyInfo.cs
+E:\JWT_TOKEN\JWT_TOKEN\bin\Debug\netcoreapp2.0\JWT_TOKEN.pdb
+E:\JWT_TOKEN\JWT_TOKEN\obj\Debug\netcoreapp2.0\JWT_TOKEN.dll
+E:\JWT_TOKEN\JWT_TOKEN\obj\Debug\netcoreapp2.0\JWT_TOKEN.pdb
